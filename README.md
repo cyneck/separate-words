@@ -1,2 +1,2 @@
 # separate-words
-分词器
+参考测试：https://github.com/lancopku/PKUSeg-python
